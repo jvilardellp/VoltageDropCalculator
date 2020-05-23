@@ -5,7 +5,7 @@ Java version 11.
 
 
 # Screen shot
-![Screenshoot](https://raw.github.com/jvilardellp/VoltageDropCalculator/src/Images/Screenshot.png)
+![Screenshoot](https://raw.github.com/jvilardellp/VoltageDropCalculator/master/src/Images/Screenshot.png)
 
 
 # Author
