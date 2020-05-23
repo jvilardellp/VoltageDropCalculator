@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VoltageDropCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VoltageDropCalculator_jar</output-path>
+    <root id="archive" name="VoltageDropCalculator.jar">
+      <element id="module-output" name="VoltageDropCalculator" />
+    </root>
+  </artifact>
+</component>
